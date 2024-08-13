@@ -1,0 +1,36 @@
+Problema 1: Información personal
+
+Diseña un programa que muestre la siguiente información:
+• Tu nombre
+• Tu dirección, con ciudad, estado y código postal
+• Tu número de teléfono
+• Tu especialización universitaria
+
+Algoritmo
+1. Iniciar
+2. Declarar variables: Dirección (Ciudad, departamento, país, código postal), número telefónico y especialización universitaria.
+3. Fin
+
+Pseudocódigo
+
+
+Program informacion_personal
+Start
+//Programa que muestra información personal
+Declare String, Nombre
+Declare String, Dirección
+Declare integer, Número de teléfono
+Declare string, Especialización universitaria
+
+Display "Ingrese su nombre:"
+input Nombre
+Display "Ingrese su dirección:"
+input Dirección
+Display "Digite su número telefónico:"
+input Número de teléfono
+Display "Ingrese su especialización universitaria:"
+input Especialización universitaria
+
+//La información personal, ha sido registrada
+
+End
